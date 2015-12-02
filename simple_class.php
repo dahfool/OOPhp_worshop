@@ -22,12 +22,12 @@ class Human {
 }
 
 /* creating an object (instantiation) */
-//$bob = new Human;
+$bob = new Human;
 
 /* Accessing a property */
-//echo($bob->eyeColor);
+echo($bob->eyeColor);
 
 //echo '<br />';
 
 /* Calling a method */
-//echo($bob->wink());
+echo($bob->wink());
